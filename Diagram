@@ -1,0 +1,13 @@
+User Prompt
+     ↓
+LLM Response (Round 1)
+     ↓
+Suggestive Prompt
+     ↓
+LLM Response (Round 2)
+     ↓
+Contradictory Prompt
+     ↓
+LLM Response (Round 3)
+     ↓
+Bias Metrics Analysis
