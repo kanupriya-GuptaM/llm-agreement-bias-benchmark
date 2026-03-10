@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-experimental-orange)
 # llm-agreement-bias-benchmark
 Benchmark framework for detecting agreement bias and answer instability in large language models through multi-round conversational testing.
 # LLM Agreement Bias Benchmark
